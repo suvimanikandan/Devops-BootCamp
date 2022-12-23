@@ -1,0 +1,54 @@
+Key Takeways
+#Introduction to Devops
+
+
+
+Different IT roles in software development & process
+
+Software Development:   
+Software programmed by developers   
+In different programming languages,like java,python javascript etc;   
+new functionality and bugfixes   
+
+Software Testing:      
+: Test new features and old features   
+: Done by developers and dedicated testers   
+: manual and automated Testing     
+
+
+Release of Software  
+: Operations:
+: Build application          
+:Release of Software       
+:Upgrade the exisiting software    
+done by operations team   
+ 
+ Traditional development :
+1) Miscommunication and collaboration
+2)conflict of interest
+3) manual work& checklist
+ this is the slow of the software release process
+ 
+ Solution: Devops culture
+ Simple definition: Intersection of development &operations  -> devops was a justway of working between dev's and op's
+ ->common language to communicate
+ 
+    #Devops is about making the process of continous delivery fase with minimal errors
+    #Instead of manual inefficient process help create a fully streamlined process of release cycles
+    
+    #Devops as a seperate role
+:devops Engineer
+
+Devops tool that are today
+1) Source code management-GIT
+2)Package Management-DOCKER
+3)Infrastructure as a code: TERRAFORM,ANSIBLE
+4)continous integration/delivery-JENKINS,GITLAB
+5)Container Orchestration-KUBERNETES
+6)CLOUD:AWS,AZURE,GCloud
+7)Continous Monitoring:PROMETHUS
+
+--->replace human task with automation tools
+--->AT the core of devops:CI/CD for an automated release process
+commitcode -> test->build ->push ->deploy
+
