@@ -1,0 +1,20 @@
+ Chapter 1: The linux Foundation
+ The Linux Foundation provides a neutral, trusted hub for developers to code, manage, and scale open technology projects.
+ It is also home to Linux creator Linus Torvalds and lead maintainer Greg Kroah-Hartman. The success of Linux has catalyzed growth in the open source community
+ 
+ Chapter 2: Linux Philosophy and Concepts
+Things change in Linux
+We have repeated some things in the class material
+We have tried to avoid holy wars
+
+linux History:Linux is an open source computer operating system, initially developed on and for Intel x86-based personal computers. It has been subsequently ported to an astoundingly long list of other hardware platforms, from tiny embedded appliances to the world's largest supercomputers.
+linux philosophy:Linux borrows heavily from the well-established UNIX operating system. It was written to be a free and open source system to be used in place of UNIX, which at the time was designed for computers much more powerful than PCs and was quite expensive. Files are stored in a hierarchical filesystem, with the top node of the system being the root or simply "/". Whenever possible, Linux makes its components available via files or objects that look like files. Processes, devices, and network sockets are all represented by file-like objects, and can often be worked with using the same utilities used for regular files.
+linux community:The Linux community is a far-reaching ecosystem consisting of developers, system administrators, users and vendors who use many different forums to connect with one another. Among the most popular are:
+
+Internet Relay Chat (IRC) software (such as WeeChat, HexChat, Pidgin and XChat)
+Online communities and discussion boards including Linux User Groups (both local and online)
+Many collaborative projects hosted on services such as GitHub and GitLab
+Newsgroups and mailing lists, including the Linux Kernel Mailing List
+Community events, e.g. Hackathons, Install Fests, Open Source Summits and Embedded Linux Conferences.
+
+linux distrubutions:redhat,ubuntu,centos,debian,fedora
