@@ -11,8 +11,8 @@
       :heavy_check_mark:Devops as a seperate role  
       :heavy_check_mark: SRE       
       :round_pushpin: #Introduction to linux    https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS101x+2T2021/home      
-       :heavy_check_mark: chapter 1: The Linux Foundation   
-           :feet:Introduction    
+       :heavy_check_mark: chapter 1: The Linux Foundation      
+            :feet:Introduction    
            :feet:linux foundation    
            :feet:course linux requirements     
            :heavy_check_mark: chapter 2: Linux Philosophy and concept     
@@ -22,5 +22,9 @@
            :feet:community     
            :feet:terminilogy    
            :feet:distributions         
-            :heavy_check_mark: chapter 2: Linux Basics ans System Startup
+            :heavy_check_mark: chapter 3: Linux Basics and Startup     
+            :feet:Introduction    
+            :feet:The boot process   
+            :feet:Kernel,Init and Services    
+            :feet:Linux distrubution installation   
            
