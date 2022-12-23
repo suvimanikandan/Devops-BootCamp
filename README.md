@@ -21,4 +21,6 @@
            :feet:philosophy      
            :feet:community     
            :feet:terminilogy    
-           :feet:distributions    
+           :feet:distributions         
+            :heavy_check_mark: chapter 2: Linux Basics ans System Startup
+           
