@@ -12,4 +12,5 @@
       :heavy_check_mark: SRE       
       :round_pushpin: #Introduction to linux    https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS101x+2T2021/home      
        :heavy_check_mark: chapter 1: The Linux Foundation  
+        :heavy_check_mark: chapter 2: Linux Philosophy and concepts
 
