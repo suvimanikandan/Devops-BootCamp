@@ -9,7 +9,7 @@
       :heavy_check_mark:Challenges Devops Tries    
       :heavy_check_mark:Devops Concept as a Solution   
       :heavy_check_mark:Devops as a seperate role  
-      :heavy_check_mark: SRE     
-      
-      
+      :heavy_check_mark: SRE       
+      :round_pushpin: #Introduction to linux    https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS101x+2T2021/home      
+       :heavy_check_mark: chapter 1: The Linux Foundation  
 
