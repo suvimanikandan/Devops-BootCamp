@@ -21,10 +21,18 @@
            :feet:philosophy      
            :feet:community     
            :feet:terminilogy    
-           :feet:distributions         
-            :heavy_check_mark: chapter 3: Linux Basics and Startup     
+           :feet:distributions 
+           :heavy_check_mark: chapter 3: Linux Basics and Startup     
             :feet:Introduction    
             :feet:The boot process   
             :feet:Kernel,Init and Services    
-            :feet:Linux distrubution installation   
+            :feet:Linux distrubution installation    
+             :round_pushpin: Day 2 [24/12/2022]    -Continue to linux                 
+             :heavy_check_mark: chapter 4:Graphical Interface       https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS101x+2T2021/home      
+              :feet:Introduction          
+              :feet:Graphical desktop     
+               :feet:Session management     
+               :feet: Basic operations with labs
+            
+            
            
