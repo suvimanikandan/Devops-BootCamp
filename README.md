@@ -21,7 +21,7 @@
            :feet:philosophy      
            :feet:community     
            :feet:terminilogy    
-           :feet:distributions 
+           :feet:distributions        
            :heavy_check_mark: chapter 3: Linux Basics and Startup     
             :feet:Introduction    
             :feet:The boot process   
