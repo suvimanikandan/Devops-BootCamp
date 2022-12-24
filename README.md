@@ -32,7 +32,13 @@
               :feet:Introduction          
               :feet:Graphical desktop     
                :feet:Session management     
-               :feet: Basic operations with labs
+               :feet: Basic operations with labs     
+               ✔️Chapter 5:System configuration from the graphical interface    
+               🐾Introduction    
+               🐾System display,date,time settings   
+               🐾Network Manager   
+               🐾Installing and Updating software         
+               
             
             
            
