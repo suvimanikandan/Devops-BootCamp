@@ -42,7 +42,15 @@
                :feet:Internet Applications    
                :feet:Productivity and development Applications   
                :feet:Multimedia applications   
-               :feet:Graphics,Editors and utilities   
+               :feet:Graphics,Editors and utilities     
+               ✔️Chapter 7:Command line Operations   
+               🐾Introduction     
+               🐾Command-line mode options   
+               🐾Basic Operations    
+               🐾Working with files   
+               🐾Searching with files     
+               🐾Installing software  
+               
                
             
             
