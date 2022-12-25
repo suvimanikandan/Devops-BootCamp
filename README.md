@@ -37,7 +37,12 @@
                🐾Introduction    
                🐾System display,date,time settings   
                🐾Network Manager   
-               🐾Installing and Updating software         
+               🐾Installing and Updating software        
+               :heavy_check_mark:Chapter 6:Common Applications  
+               :feet:Internet Applications    
+               :feet:Productivity and development Applications   
+               :feet:Multimedia applications   
+               :feet:Graphics,Editors and utilities   
                
             
             
