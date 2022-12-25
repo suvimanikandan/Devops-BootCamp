@@ -49,7 +49,11 @@
                🐾Basic Operations    
                🐾Working with files   
                🐾Searching with files     
-               🐾Installing software  
+               🐾Installing software     
+               :roundpushpin: day-3[25/12/22] continue to linux       https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS101x+2T2021/home   
+               :heavy_check_mark:chapter 8:Finding Linux Documentation
+               
+               
                
                
             
