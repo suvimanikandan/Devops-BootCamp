@@ -51,7 +51,8 @@
                🐾Searching with files     
                🐾Installing software     
                📍: day-3[25/12/22] continue to linux       https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS101x+2T2021/home   
-               :heavy_check_mark:chapter 8:Finding Linux Documentation                 :feet:Introduction   
+               :heavy_check_mark:chapter 8:Finding Linux Documentation      
+               :feet:Introduction      
                :feet:Documentation Sources   
                :feet:The Man pages    
                :feet:GNU info   
@@ -69,6 +70,19 @@
                :feet: File System Architecture    
                :feet:Comparing files and file types   
                :feet:Backing up and compressing data  
+               📍day-4[26/12/22] Continue to  linux    
+               ✔️Chapter 11:Text Editors      
+               🐾introduction    
+               🐾Basic editors:nano and Gedit     
+               🐾More advanced Editors:vi and emacs  
+               ✔️Chapter 12:User Environment  
+               🐾Introduction  
+               🐾Accounts,users and groups   
+               🐾Environment variables  
+               🐾Recalling previous commands   
+               🐾File Permissions   
+               
+               
                
                
                
