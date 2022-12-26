@@ -1,0 +1,19 @@
+▶️Insert mode 
+->allows you enter the text   
+->press i key ->switch to insert mode  
+->:wq->write file to  disk and quit vm  
+->esc key  
+->:q!->only quit  
+->cat ->display the content  
+->dd -.delete the entire line  
+->d/o->delete next to line  
+->u->undo   
+->A ->jump to end of the line switch to the insert mode  
+->type 0->jump to start a line  
+->type $ ->jump of the end of the line  
+->type 12G->go to the line 12 
+->type 16G -> go to line 16  
+->/pattern ->search of the pattern  
+->n-jump to the nextmatch
+->N->search in oppsoite direction  
+->%s /old/new =replace old with  new throughout the file  
