@@ -1,8 +1,14 @@
 # Devops-BootCamp
-:sparkles:my Journey with devops
+:sparkles:my Journey with devops    
+:round_pushpin: Day 1[22/12/2022] https://kodekloud.com/courses/labs-devops-pre-requisite-course/   #learn with Mumshadmanambeth     
+:heavy_check_mark:Labs-devops pre-requisite course   
+:feet:Linux Basics   
+:feet:Networking Basics  
+:feet:General pre-requisite  
+:feet: conclusion   
 
 
-:round_pushpin: Day 1 [23/12/2022]   https://www.youtube.com/watch?v=0yWAtQ6wYNM    #LearnWith Techworld nana  
+:round_pushpin: Day 2 [23/12/2022]   https://www.youtube.com/watch?v=0yWAtQ6wYNM    #LearnWith Techworld nana  
        :heavy_check_mark: What is Devops?      
       :heavy_check_mark:Devops vs SRE    
       :heavy_check_mark:Tradtional application Release Process   
@@ -27,7 +33,7 @@
             :feet:The boot process   
             :feet:Kernel,Init and Services    
             :feet:Linux distrubution installation    
-             :round_pushpin: Day 2 [24/12/2022]    -Continue to linux                 
+             :round_pushpin: Day 3 [24/12/2022]    -Continue to linux                 
              :heavy_check_mark: chapter 4:Graphical Interface       https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS101x+2T2021/home      
               :feet:Introduction          
               :feet:Graphical desktop     
@@ -50,7 +56,7 @@
                🐾Working with files   
                🐾Searching with files     
                🐾Installing software     
-               📍: day-3[25/12/22] continue to linux       https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS101x+2T2021/home   
+               📍: day-4[25/12/22] continue to linux       https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS101x+2T2021/home   
                :heavy_check_mark:chapter 8:Finding Linux Documentation      
                :feet:Introduction      
                :feet:Documentation Sources   
@@ -70,7 +76,7 @@
                :feet: File System Architecture    
                :feet:Comparing files and file types   
                :feet:Backing up and compressing data  
-               📍day-4[26/12/22] Continue to  linux   https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS101x+2T2021/home       
+               📍day-5[26/12/22] Continue to  linux   https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS101x+2T2021/home       
                ✔️Chapter 11:Text Editors      
                🐾introduction    
                🐾Basic editors:nano and Gedit     
