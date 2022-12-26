@@ -14,11 +14,11 @@
 ▶️clear-clears the terminal
 
 🗒️note: 
-->everythinng in linux is a file  
+->everything in linux is a file  
 ->text document,pictures etc.,  
 ->directories  
 ->commands like pwd,ls,etc  
-->device like printer,keyboard,usbb etc ., in device file  
+->device like printer,keyboard,usb etc ., in device file  
 
 🚀navigating in the file system:  
 ▶️cd[absolute path]-move to any location by providing the full path
@@ -28,7 +28,7 @@
 ▶️mv-rename the file to new file name  
 ▶️cp-copy dir name to new name  
 
-🚀Some more useful coommand   
+🚀Some more useful command   
 ▶️history ->gives a list of all part commands typed in the current terminal session  
 ▶️ctrl+c ->stop current command  
 ▶️ctrl+shift+v -paste copied text into terminal   
