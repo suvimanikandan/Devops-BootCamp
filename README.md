@@ -32,8 +32,9 @@
             :feet:Introduction    
             :feet:The boot process   
             :feet:Kernel,Init and Services    
-            :feet:Linux distrubution installation   
-             :round_pushpin: Day 3 [24/12/2022]    -Continue to linux                 
+            :feet:Linux distrubution installation     
+            
+ :round_pushpin: Day 3 [24/12/2022]    -Continue to linux                 
              :heavy_check_mark: chapter 4:Graphical Interface       https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS101x+2T2021/home      
               :feet:Introduction          
               :feet:Graphical desktop     
