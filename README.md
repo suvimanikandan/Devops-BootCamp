@@ -34,7 +34,7 @@
             :feet:Kernel,Init and Services    
             :feet:Linux distrubution installation   
             
-             :round_pushpin: Day 3 [24/12/2022]    -Continue to linux                 
+     :round_pushpin: Day 3 [24/12/2022]    -Continue to linux                 
              :heavy_check_mark: chapter 4:Graphical Interface       https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS101x+2T2021/home      
               :feet:Introduction          
               :feet:Graphical desktop     
@@ -59,9 +59,7 @@
                🐾Installing software 
                
                
-               
-               
-               📍: day-4[25/12/22] continue to linux       https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS101x+2T2021/home   
+         📍: day-4[25/12/22] continue to linux       https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS101x+2T2021/home   
                :heavy_check_mark:chapter 8:Finding Linux Documentation      
                :feet:Introduction      
                :feet:Documentation Sources   
@@ -84,9 +82,7 @@
                
                
                
-               
-               
-               📍day-5[26/12/22] Continue to  linux   https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS101x+2T2021/home       
+        📍day-5[26/12/22] Continue to  linux   https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS101x+2T2021/home       
                ✔️Chapter 11:Text Editors      
                🐾introduction    
                🐾Basic editors:nano and Gedit     
