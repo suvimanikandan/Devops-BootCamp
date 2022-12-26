@@ -9,7 +9,7 @@
 👉vi has three modes: Command, Insert, and Line. emacs has only one, but requires use of special keys, such as Control and Escape.            
 👉Both editors use various combinations of keystrokes to accomplish tasks. The learning curve to master these can be long, but once mastered using either editor is extremely efficient.       
 
-🖋️Chapter 12:File Permissions
+🖋️Chapter 12:File Permissions      
 👉Linux is a multi-user system.     
 👉To find the currently logged on users, you can use the who command.     
 👉To find the current user ID, you can use the whoami command.     
