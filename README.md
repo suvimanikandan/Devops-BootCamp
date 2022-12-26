@@ -80,8 +80,7 @@
                :feet:Backing up and compressing data  
                
                
-               
-        📍day-5[26/12/22] Continue to  linux   https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS101x+2T2021/home       
+               📍day-5[26/12/22] Continue to  linux   https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS101x+2T2021/home       
                ✔️Chapter 11:Text Editors      
                🐾introduction    
                🐾Basic editors:nano and Gedit     
