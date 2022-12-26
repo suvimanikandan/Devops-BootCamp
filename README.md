@@ -51,8 +51,24 @@
                🐾Searching with files     
                🐾Installing software     
                📍: day-3[25/12/22] continue to linux       https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS101x+2T2021/home   
-               :heavy_check_mark:chapter 8:Finding Linux Documentation
-               
+               :heavy_check_mark:chapter 8:Finding Linux Documentation                 :feet:Introduction   
+               :feet:Documentation Sources   
+               :feet:The Man pages    
+               :feet:GNU info   
+               :feet:The --help option and help command   
+               :feet:Other documentation sources   
+               :heavy_check_mark:Chapter 9:processes    
+               :feet:Introduction   
+               :feet:Introduction to Processes and Process Attributes   
+               :feet:Process metrics and process control    
+               :feet:Listing processes:ps and top   
+               :feet:Starting processes in future    
+               :heavy_check_mark:chapter 10:file operations   
+               :feet:Introduction   
+               :feet:File systems   
+               :feet: File System Architecture    
+               :feet:Comparing files and file types   
+               :feet:Backing up and compressing data  
                
                
                
