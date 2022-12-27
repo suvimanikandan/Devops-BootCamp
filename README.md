@@ -94,6 +94,25 @@
                
    :round_pushpin: day-6[27-12-22] CCNA COURSE ROUTING AND SWITCHING CCNA 200-301    https://www.youtube.com/watch?v=rv3QK2UquxM&t=7406s       
       :heavy_check_mark: Networking fundamentals   
+      🐾Introduction    
+      🐾What is a network   
+      🐾LAN &WAN   
+      🐾Switch   
+      🐾Router  
+      🐾ISP  
+      🐾Lab practical -1  
+      🐾IP address and its types  
+      🐾Decimal and Binary  
+      🐾IANA  
+      🐾Internet Hierarchy  
+      🐾Internet History  
+      🐾Submarine Cables  
+      🐾Network models  
+      🐾Network Components  
+      🐾HUB vs SWITCH  
+      
+
+      
       
                
                
