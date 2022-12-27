@@ -89,7 +89,12 @@
                🐾Accounts,users and groups   
                🐾Environment variables  
                🐾Recalling previous commands   
-               🐾File Permissions   
+               🐾File Permissions     
+               
+               
+   :round_pushpin: day-6[27-12-22] CCNA COURSE ROUTING AND SWITCHING CCNA 200-301    https://www.youtube.com/watch?v=rv3QK2UquxM&t=7406s       
+      :heavy_check_mark: Networking fundamentals   
+      
                
                
                
