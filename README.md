@@ -109,10 +109,29 @@
       🐾Submarine Cables  
       🐾Network models  
       🐾Network Components  
-      🐾HUB vs SWITCH    
+      🐾HUB vs SWITCH      
       
-       :round_pushpin: day-7[28-12-22] CCNA COURSE ROUTING AND SWITCHING CCNA 200-301    https://www.youtube.com/watch?v=rv3QK2UquxM&t=7406s        
-      :heavy_check_mark: Networking fundamentals     
+      :round_pushpin: day-7[28-12-22] CCNA COURSE ROUTING AND SWITCHING CCNA 200-301    https://www.youtube.com/watch?v=rv3QK2UquxM&t=7406s        
+      :heavy_check_mark: Networking fundamentals   
+      🐾ISR & ASR  
+      🐾Application layer   
+      🐾Presentation Layer  
+      🐾Session Layer  
+      🐾Transport Layer   
+      🐾Network Layer  
+      🐾Data-link Layer  
+      🐾Physical Layer   
+      🐾Receiving Data  
+      🐾OSI Layers Keywords  
+      🐾OSI quiz  
+      🐾IP address history  
+      🐾What is IP address?  
+      🐾Decimal to Binary Conversion  
+      🐾Subnet Mask and Subnetting
+      
+      
+      
+      
       
       
       
