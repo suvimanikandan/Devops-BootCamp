@@ -127,7 +127,9 @@
       🐾IP address history  
       🐾What is IP address?  
       🐾Decimal to Binary Conversion  
-      🐾Subnet Mask and Subnetting
+      🐾Subnet Mask and Subnetting       
+      :round_pushpin:day-8[29/12/22] continue to the ccna   
+      
       
       
       
