@@ -147,7 +147,21 @@
   ✔️GOLANG FUNDAMENTALS  
       🐾Write our first program&structure of a go file   
       🐾variables and constants in GO       
-      :rocket:
+      :rocket: Inntroduction to yaml     #Kunalwithdevops      https://www.youtube.com/watch?v=IA90BTozdow&t=1903s
+      🐾introduction  
+      🐾What is yaml?  
+      🐾Data serialization and deserialization  
+      🐾what is yaml?  
+      🐾Benefits of yaml?    
+      🐾Creating a yaml file   
+      🐾key datatype  
+      🐾list datatype  
+      🐾Block style  
+      🐾Checking yaml syntax ex:lint  
+      🐾differentiate-between documents  
+      🐾How does block style work  
+      🐾Working with JSON file
+      
       
       
       
