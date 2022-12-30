@@ -49,7 +49,19 @@ example:docker file,kubernetes file,
 ▶️various tools,parsers etc..,  
 ▶️pasing is easing(parsing means reading data)  
   
-  ✔️Demo of yaml file
+  ✔️Demo of yaml file   
+  ▶️key-value pairs:   
+  
+  key ----->value    
+  
+  cities: 
+ - new delhi 
+ - mumbai  
+ - gujarat block style how does work   
+ - cities  ->  
+ - new delhi    
+ - mumbai    
+ - gujarat   
 
 
 
