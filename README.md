@@ -129,7 +129,7 @@
       🐾Decimal to Binary Conversion  
       🐾Subnet Mask and Subnetting   
       
-    :round_pushpin:day-8[29/12/22] continue to the ccna  routing and switching  
+  📍day-8[29/12/22] continue to the ccna  routing and switching  
       ✔️Networking   
       🐾Subnet mask problems  
       🐾Subnetting problems exercise workout  
