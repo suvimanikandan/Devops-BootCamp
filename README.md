@@ -160,7 +160,11 @@
       🐾Checking yaml syntax ex:lint  
       🐾differentiate-between documents  
       🐾How does block style work  
-      🐾Working with JSON file
+      🐾Working with JSON file   
+      :feet: Storing a data file  
+     
+ 
+      
       
       
       
