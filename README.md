@@ -147,7 +147,7 @@
   ✔️GOLANG FUNDAMENTALS  
       🐾Write our first program&structure of a go file   
       🐾variables and constants in GO       
-      :rocket: Inntroduction to yaml     #Kunalwithdevops      https://www.youtube.com/watch?v=IA90BTozdow&t=1903s    
+      :rocket: Inntroduction to yaml     #Kunalwithdevops      https://www.youtube.com/watch?v=IA90BTozdow&t=1903s       #code file named as YAML some Basics code  
       🐾introduction  
       🐾What is yaml?  
       🐾Data serialization and deserialization  
@@ -168,8 +168,25 @@
       🐾Advance datatypes  
       🐾Sequence datatypes  
       🐾Nesteed sequence  
-      🐾sparse sequence datatype   
-      :feet:
+      🐾sparse sequence datatype     
+      🐾Nested sequences    
+      🐾Maps datatype  
+      🐾Pairs datatype  
+      🐾set Datatypes   
+      🐾Dictionary Datatypes  
+      🐾Resuing properties using anchors  
+      🐾Real world examples  
+      🐾Storing data in XML  
+      🐾Storing data in JSON  
+      🐾YAML DevOps Tools  
+      🐾Datree 
+      🐾Monokle (By Kubeshop)  
+      🐾Lens  
+      🐾Outro
+      
+      
+      
+      
       
       
       
