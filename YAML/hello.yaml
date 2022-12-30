@@ -1,0 +1,18 @@
+"apple " : "I am a red fruit"
+1: "this is swetha's roll number"    
+
+---
+# lists  
+# - grapes 
+# - mango
+# - Apple
+# ---
+cities: 
+ - new delhi 
+ - mumbai  
+ - gujarat 
+---
+ cities: [new delhi,mumbai]
+
+---
+ {mango:"yellow fruit ",age: 56}
