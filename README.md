@@ -135,10 +135,10 @@
       🐾Subnetting problems exercise workout  
       🐾DHCP  
       🚀Intoduction to the golang programming language  
-      🐾GO-outline
-      🐾What is go?
-      🐾why go?  
-      🐾How is different?  
+      🐾GO-outline   
+      🐾What is go?   
+      🐾why go?     
+      🐾How is different?    
       🐾charateristics of go and go use cases  
       🐾GO SYNTAX& concepts  
       🐾Local setup -install go &editior 
