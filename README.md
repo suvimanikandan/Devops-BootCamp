@@ -146,7 +146,8 @@
   📍day-9[30/12/22] Introduction to golang  #tech with nana world      https://www.youtube.com/watch?v=yyUHQIec83I&t=1235s    
   ✔️GOLANG FUNDAMENTALS  
       🐾Write our first program&structure of a go file   
-      🐾variables and constants in GO  
+      🐾variables and constants in GO       
+      :rocket:
       
       
       
