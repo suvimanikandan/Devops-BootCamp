@@ -129,8 +129,7 @@
       🐾Decimal to Binary Conversion  
       🐾Subnet Mask and Subnetting   
       
-      
-      :round_pushpin:day-8[29/12/22] continue to the ccna  routing and switching  
+    :round_pushpin:day-8[29/12/22] continue to the ccna  routing and switching  
       ✔️Networking   
       🐾Subnet mask problems  
       🐾Subnetting problems exercise workout  
@@ -144,7 +143,8 @@
       🐾GO SYNTAX& concepts  
       🐾Local setup -install go &editior 
       
-      📍day-9[30/12/22] Introduction to golang  #tech with nana world    
+  📍day-9[30/12/22] Introduction to golang  #tech with nana world      https://www.youtube.com/watch?v=yyUHQIec83I&t=1235s    
+  ✔️GOLANG FUNDAMENTALS  
       🐾Write our first program&structure of a go file   
       🐾variables and constants in GO  
       
