@@ -161,7 +161,17 @@
       🐾differentiate-between documents  
       🐾How does block style work  
       🐾Working with JSON file   
-      :feet: Storing a data file  
+      :feet: Storing a data in singlle ine   
+      🐾Comments in yaml  
+      🐾data types in yaml  
+      🐾specifying datatype in yaml  
+      🐾Advance datatypes  
+      🐾Sequence datatypes  
+      🐾Nesteed sequence  
+      🐾sparse sequence datatype     
+      
+      
+      
      
  
       
