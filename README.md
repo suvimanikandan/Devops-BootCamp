@@ -185,7 +185,15 @@
       🐾Outro   
       
       
-:round_pushpin:
+:round_pushpin: day-10[31/12/22]  Udemy - Go The Complete Developer's Guide (Golang) -stephen  
+      ✔️Module 1:getting introduction  
+      🐾Environment setup   
+      🐾Installation on vs code  
+      🐾go to vs coode go extension  
+      🐾Go support in vs code 
+      
+      ✔️module 2: Asimple start
+      
       
       
       
