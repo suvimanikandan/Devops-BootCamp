@@ -192,7 +192,8 @@
       🐾go to vs coode go extension  
       🐾Go support in vs code 
       
-      ✔️module 2: Asimple start
+:round_pushpin: day-11[01/01/23] -AWS cloud practionar  
+
       
       
       
