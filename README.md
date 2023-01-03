@@ -199,19 +199,17 @@
       🐾What is computer networking   
       🐾data  and osi model   
       🐾Networking component    
-      
       module2:Networking components:  
-      :feet: Types of computer networks  
+      🐾Types of computer networks  
       🐾Network toplogies  
       🐾Comparing LAN vs WAn vs AWS VPC  
       🐾Network management model  
       🐾Network protocols  
-      
       Module3:Internet Protocol:  
       :feet: what is an ip?  
       🐾IP addresses  
       🐾Port numbers   
-      
+      🏷️LABS:
       🏷️Lab -public and private ip addresses  
       🏷️static and dynamic ip addresses  
       
