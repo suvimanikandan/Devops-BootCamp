@@ -211,7 +211,22 @@
       🐾Port numbers   
       🏷️LABS:
       🏷️Lab -public and private ip addresses  
-      🏷️static and dynamic ip addresses  
+      🏷️static and dynamic ip addresses     
+      
+:round_pushpin: day-12[02/01/23] -AWS cloud practionar   refer:https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html   
+     ✔️EC2   
+     🐾What is EC2?   
+     🐾What is amazon ec2?  
+     🐾Introduction to EC2  
+     🐾Ec2 storage options   
+     🐾Monitoring instances with cloud watch  
+     🐾Ec2 Purchasing options   
+     🐾Knowledge check  
+     🐾Some quiz  
+     
+     
+
+
       
       
       
