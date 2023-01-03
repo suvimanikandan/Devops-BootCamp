@@ -198,7 +198,10 @@
       🐾What is internet?  
       🐾What is computer networking   
       🐾data  and osi model   
-      🐾Networking component  
+      🐾Networking component    
+      
+      module2:Networking components:  
+      :feet: 
       
       
       
