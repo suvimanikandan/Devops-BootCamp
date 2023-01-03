@@ -1,0 +1,114 @@
+Internet protocol module  :
+
+IP
+What is IP? • IP is a network protocol that establishes the rules for relaying and routing data in the internet.
+ • Uses IP addresses to identify devices.
+ • Uses port numbers to identify endpoints.
+ • Supports subnetting to subdivide a network.
+ 
+ What are IP addresses? 
+• An IP address uniquely identifies a device on a network. 
+each device on a network has an IP address, and it serves two main functions:
+ • It identifies a host and a network. 
+• It is also used for location addressing.   
+P addresses: • Work at layer 3 of the OSI model and are used to identify a host and a network.
+• Can be assigned in a dynamic or static way:
+ • Dynamic is when an assigned IP address can change.
+ • Static is when an assigned IP address does not change.
+• Can be made public or private:
+ • A public IP address can be accessed over the internet.
+ • A private IP address cannot be accessed over the internet 
+
+Private and public IP addresses – OSI model
+
+An IP address works in layer 3 (networking) of the OSI model.
+ IP addresses can be assigned to devices in a dynamic or static way. 
+IP addresses can also be made public or private.
+Example issues that can happen with IP
+addresses (layer 3): 
+• Latency 
+• Unresponsive server 
+• Dynamic assigned IP addresses that should be statically assigned
+Example troubleshooting commands that can be used for layer 3 troubleshooting: • Ping • traceroute  
+
+Layer 3 of the OSI model
+Layer 3 (the network layer) translates logical network addresses into physical addresses such as MAC addresses.
+ • The network layer determines how to deliver the message.
+ • It determines how to break down a message if it’s too large.
+ • There are many protocols that belong in the network layer: 
+• Layer address and its information • Routing protocols  
+
+Private and public IP addresses
+There are certain ranges for private IP addresses located in a guide called RFC 1918. 
+• 10.0.0.0 – 10.255.255.255 
+• 172.16.0.0 – 172.31.255.255
+• 192.168.0.0 – 192.168.255.255
+A private IP address, such as 10.0.0.0, can only be accessed within a logically isolated private network.
+With a public IP address such as 54.239.28.85 [amazon.com], anyone can publicly access this over the internet.
+
+
+IP addresses – IPv4
+An IPv4 address uniquely identifies a device within a network. This address is made of a 32-bit number, in decimal digits, separated by periods.
+There are two parts to an IPv4 address: • The network portion • The host portion
+10.0. 0.0 
+Network
+The network portion of the IP address is the number assigned to your network.
+ Host
+The host portion of the IP address is the number you assign to each host.
+Pv4 addresses: • An IP address consists of four numbers from 0 to 255 separated by a period, which is also known as a dotted quad (for example, 10.15.200.0). This format follows the IPv4 standard. It is important to note that the numbers in the IP address identify both the network and the device on the network.
+• An IP address is made of a 32-bit number, where each of the numbers between the dots is an 8-bit binary number. Thus, the entire address is a 32-bit binary number. For example: • An IP address of 10.100.20.5, the 10 is 8-bits, the 100 is 8-bits, the 20 is 8-bits, and the 5 is 8-bits totaling 32-bits (8x4).
+• Each binary digit or bit, has the value of zero or one. And has a separate decimal value.
+• The network portion of the IP address is the number assigned to your network.
+• The host portion of the IP address is the number you assign to each host. 
+
+IP addresses – IPv6
+IPv6 standard extends the range of IPv4 addresses by a factor of 1,028.
+ It uses a group of hexadecimal numbers that are separated by eight colons (:). 
+• Increases security 
+• Handles packets more efficiently
+ • Improves performance 
+• The numbers identify both the network and device on the network  
+IPv6 addresses: • The extra digits in IPv6 allow an expanded number of available addresses. • Each decimal value now allows for 16 bits instead of the 8 bits that IPv4 provided.
+• IPv4 provided an estimated 4.2 billion addresses, IPv6 provides around 340 trillion, trillion, trillion addresses to keep up with today’s growing list of internet of things (IoT) devices.
+Example of an IPv6 address: 2600:1f18:22ba:8c00:ba86:a05e:a5ba:00FF
+
+
+IP addresses – dynamic and static IP addresses can be assigned to devices in a dynamic or static way.
+A device with a static address has an IP address that does not change.
+A device with a dynamic address has an assigned IP address that can change.
+Static addresses are useful for devices like servers or printers that devices connect to often.
+Dynamic address are useful when devices like a work-assigned laptop leave the work network and then connect to the user’s home network.
+
+IP addresses – EC2 instances EC2 instances can also have static and dynamic IP addresses assigned to them.
+With static IP addresses, whether a machine or EC2 instance is turned off and back on, the IP address will stay the same. It will not change.
+With dynamic IP addresses, when a machine or EC2 instance is turned off, the IP address will change.
+
+IP addresses – summary
+IP addresses can be made public or private. • A public IP address is an IP address that can be accessed over the internet. • A public IP address is similar to a phone number that can be found in a public phone book or on the internet.
+• With a public IP address such as 54.239.28.85 [amazon.com], anyone can publicly access this over the internet.
+• A private IP address is assigned to computers within a private network and they cannot be accessed from the internet. • A private IP address is similar to a phone number that is privately listed, or personal number that is not made publicly available.
+• With a private IP address such as 10.0.0.0, it can only be accessed within a logically isolated private network.
+• EC2 instances have both private and public IP addresses. • Private IP addresses are used to route traffic within the VPC • Public IP addresses (when enabled) can be used to interact with the internet
+
+IP addresses – special purpose
+When a network is assigned a range of IP addresses, such as 10.0.0.0-10.255.255.255, a few addresses have a special purpose. They are not assigned as host addresses. • The default router address is typically the second address in the range: 10.0.0.1. • The broadcast address is the last address in the range: 10.255.255.255
+
+Converting an IP address into binary
+To understand IP addressing, you can convert the number into binary. 
+A binary number is expressed in the base-2 numeral system, and it consists of only zeroes and ones:
+ • The value of 0 or 1 is known as a binary digit, or bit.
+ • In an IPv4 address, each of the four numbers between the dots is an 8-bit binary number.
+ This means the entire address is a 32-bit binary number.
+
+Port numbers
+What is a port number? • A port number allows a device in a network to further identify the other devices or applications that communicate with it. • It is also known as an endpoint. • An example is to think of a port number like an extension to a phone number. You might have the number to the hospital (IP), but you will need the extension (or port) in order to get to the exact office (endpoint) you are trying to reach.
+Common Port number examples: 
+Port 22: SSH (Secure Shell)
+ Port 53: DNS (Domain Name System) 
+Port 80: HTTP (Hypertext Transfer Protocol) 
+Port 443: HTTPS (Hypertext Transfer Protocol Secure)
+Port 3389: RDP (Remote Desktop Protocol)  
+
+Keytakeways:• An IP address uniquely identifies a device on a network and enables communication to it.
+• An IPv4 address consists of four numbers in the range of 0-255, and each number is separated by a dot (.).
+• A port number further identifies an application or a service on a device. When the port number is combined with the device’s IP address, it represents and endpoint
