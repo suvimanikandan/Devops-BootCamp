@@ -192,7 +192,16 @@
       🐾go to vs coode go extension  
       🐾Go support in vs code 
       
-:round_pushpin: day-11[01/01/23] -AWS cloud practionar  
+:round_pushpin: day-11[01/01/23] -AWS cloud practionar   
+      ✔️Networking fundamentals  
+      module1:Introduction to networking    
+      🐾What is internet?  
+      🐾What is computer networking   
+      🐾data  and osi model   
+      🐾Networking component  
+      
+      
+      
 
       
       
